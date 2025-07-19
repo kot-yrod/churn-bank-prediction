@@ -10,8 +10,10 @@ Dataset contains demographic and account-related features.
 ## 🧠 Model Used
 
 - Gradient Boosting Classifier (sklearn)
-- F1-score: 0.87
-- ROC-AUC: 0.90
+- Precision: 0.86
+- Recall: 0.87
+- F1-score: 0.86
+- ROC-AUC: 0.86
 
 ## 🔍 EDA Highlights
 
